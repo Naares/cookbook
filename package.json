@@ -3,7 +3,8 @@
     "@popperjs/core": "^2.11.5",
     "@types/bootstrap": "^5.1.9",
     "@types/jquery": "^3.5.14",
-    "electron": "^18.0.4"
+    "electron": "^18.0.4",
+    "jquery": "^3.6.0"
   },
   "devDependencies": {
     "@types/electron": "^1.6.10",
